@@ -29,7 +29,7 @@ $ ayarn -v
 
 ```bash
 $ yarn global add umi
-$ umi -v
+$ umi version
 2.0.0
 ```
 
